@@ -81,15 +81,6 @@ The goal of this project was to uncover customer buying patterns and factors tha
 - `Bike_Sales_Insights.png` – Dashboard image preview  
 - `README.md` – Project documentation and summary
 
----
 
-## 📈 Outcome
 
-This project demonstrates how Excel can be used for much more than spreadsheets — it’s a powerful tool for conducting meaningful data analysis and producing business-ready dashboards. The final insights can help bike retailers improve targeting, increase conversion rates, and optimize sales strategy.
-
----
-
-## 🔗 Let’s Connect
-
-If you found this project interesting or helpful, feel free to ⭐ the repo or connect with me on [LinkedIn](#) or [GitHub](#)!
 
